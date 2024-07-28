@@ -1,1 +1,2 @@
-# Network-Traffic-Analysis
+This is a network traffic analysis tool divided by several and extendable free and open source for modules for traffic-data handling and processing.
+Objective: implementation of a modular utility for network traffic analysis
